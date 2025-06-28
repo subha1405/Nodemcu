@@ -9,8 +9,8 @@
  
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Airtel-MyWiFi-AMF-311WW-DA04";  // Enter your Wifi Username
-char pass[] = "0b271932";  // Enter your Wifi password
+char ssid[] = "";  // Enter your Wifi Username
+char pass[] = "";  // Enter your Wifi password
 
 int ledpin = D2;
 void setup()
